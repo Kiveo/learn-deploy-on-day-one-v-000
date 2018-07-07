@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#maverick-tesini-cover {
+  background-image: url("https://imgur.com/1chNSlT");
+}
+ 
+#maverick-tesini-card {
+  background-image: url("https://imgur.com/eU8qCZY");
+}
+  
 #joe-burgess-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess.jpeg");
 }
